@@ -1,0 +1,14 @@
+{
+	"batch_size": 12,
+	"max_length": 512,
+	"lr": 6e-4,
+	"n_steps": 300000,
+	"eval_interval": 2000,
+	"eval_iters": 100,
+	"n_embd": 768,
+	"n_head": 8,
+	"n_layer": 8,
+	"dropout": 0.1,
+	"vocab_size": 16384,
+	"pad_token": 1
+}
